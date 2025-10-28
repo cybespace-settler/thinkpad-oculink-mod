@@ -1,5 +1,5 @@
-# Thinkpad E14 Gen 2 AMD
-Guide how i modded my e14 gen 2 amd
+# Thinkpad E14 Gen 2 AMD OcuLink mod
+Guide how i modded my e14 gen 2 amd with oculink port
 
 **NOT FOR BEGINNERS, YOU ARE RESPONSiBLE FOR POTENTIAL DAMAGE!!!**
 
