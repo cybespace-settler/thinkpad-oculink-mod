@@ -21,6 +21,7 @@ Guide how i modded my e14 gen 2 amd with oculink port
 **It should look like this:**
 ![internals-2-1000x703-293004197](https://github.com/user-attachments/assets/6720faca-ad53-4d3c-a990-626c07c64a34)
 4. Remove small ssd and left speaker(circled in red), cut wires
+
 5. Mark future oculink port(Sizes are approximate)
 ![2025-10-27-20-33-34-348](https://github.com/user-attachments/assets/4599e419-a55d-4b58-904a-403f566f3545)
 <img width="822" height="126" alt="Screenshot_2025-10-29_1-4222" src="https://github.com/user-attachments/assets/ec117cfb-fea8-4213-b090-401a09d8f3ac" />
