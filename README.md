@@ -38,4 +38,6 @@ My photo as reference:
 8. Fold cabls in half like on photo and install m2 part(cut parts of m2 part so it can fit in m2 slot and secure with screw)
 9. Assemble back the laptop
 ## Yippe!!!!!! >w< you did it!!!!
+![speechbubble-speechcloud](https://github.com/user-attachments/assets/dc2aee44-4056-4b98-805c-e8866e192505)
+
 Now you can use oculink dock and play games!!
