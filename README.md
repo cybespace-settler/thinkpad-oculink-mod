@@ -1,8 +1,6 @@
 # Thinkpad E14 Gen 2 AMD OcuLink mod
 Guide how i modded my e14 gen 2 amd with oculink port
 
-**NOT FOR BEGINNERS, YOU ARE RESPONSiBLE FOR POTENTIAL DAMAGE!!!**
-
 ## Requirements 
 1. Laptop
 2. Small philips screwdriver
