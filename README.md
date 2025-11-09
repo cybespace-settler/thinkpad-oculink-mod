@@ -39,3 +39,8 @@ My photo as reference:
 ![speechbubble-speechcloud](https://github.com/user-attachments/assets/dc2aee44-4056-4b98-805c-e8866e192505)
 
 Now you can use oculink dock and play games!!
+My tests 
+With my r5 4600u laptop, 24 gb of ram and rx 6700 xt and full hd resolution:
+Ghostrunner highest settings without rt - 110 fps
+Cs2 lowest without fsr or resolution scaling - 130 fps
+Amid Evil epic with rt(only shadows, 24) - 100 fps
