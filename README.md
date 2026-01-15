@@ -1,15 +1,21 @@
 # Thinkpad E14 Gen 2 AMD OcuLink mod
-Guide how i modded my e14 gen 2 amd with oculink port
+Guide on how i modded my e14 gen 2 amd with oculink port
 
 ## Requirements 
 1. Laptop
-2. Small philips screwdriver
+2. Small Phillips screwdriver
 3. Pry/Laptop opener
-4. Scissors or something to remove speaker's cable with
+4. Wire cutters, scissors(not recommended) or something to remove speaker's cable with
 5. Super glue or glue gun
 6. Micro drill 
 7. [This or similiar m2-oculink adapter](https://www.aliexpress.com/item/1005007486714630.html), i used 10 cm version, use smaller if available.
 8. Marker or something like that to mark what to drill
+## Limitations
+- Left speaker is removed
+- Internal SSD slot is repurposed
+- Laptop is no longer portable-friendly
+- Chassis modification is permanent
+
 
 ## Guide
 1. Turn laptop aluminium side down
@@ -33,8 +39,11 @@ My photo as reference:
 
 ![2025-10-27-20-33-42-357](https://github.com/user-attachments/assets/f7a542f4-70aa-4ad7-b6a5-4133543ab092)
 
-8. Fold cabls in half like on photo and install m2 part(cut parts of m2 part so it can fit in m2 slot and secure with screw)
-9. Assemble back the laptop
+8. Fold cables in half like on photo and install m2 part(cut parts of m2 part so it can fit in m2 slot and secure with screw)
+9. Modify the M.2 adapter PCB so it fits
+10. Secure it with the original M.2 screw
+11. Assemble back the laptop
+
 ## Yippe!!!!!! >w< you did it!!!!
 ![speechbubble-speechcloud](https://github.com/user-attachments/assets/dc2aee44-4056-4b98-805c-e8866e192505)
 
